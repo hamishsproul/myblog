@@ -6,7 +6,7 @@ categories: [drones, project]
 tags: [micro drop drone, first post]
 ---
 
-# Back Story
+# Backstory
 
 Early on in my Space Studies degree, I became interested in low and microgravity platforms. I was surprised by the cost to use platforms such as drop towers and parabolic flights, and that there are so few offerings. It seemed for space technology developers to test their systems in microgravity, they would either need to wait ~12-18 months for an offering to become available or send a demonstration into space! As many have pointed out, there is a need for a more accessible microgravity platform; one which developers can access within days or even own themselves; something like a wind tunnel but for microgravity.
 
