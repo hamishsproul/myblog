@@ -6,7 +6,6 @@ categories: [micro drop drone, projects]
 tags: [drones]
 ---
 
-# Micro Drop Drone 2 - The Hardware
 The control algorithm will be the key technology in a micro drop drone. There are two options to test control algorithms: using software-in-the-loop (SITL) applications or using a prototype drone. To enable this second option, I started by building the base platform of a micro drop drone prototype.
 
 ## Design Requirements
@@ -15,7 +14,7 @@ The following requirements will ensure a micro drop drone can meet the needs of 
 To maximise accessibility, a micro drop drone will use a widely available drone platform. 
 1. The micro drop drone will have a high thrust to weight ratio > 1.7 to maximise its initial velocity during the low gravity phase. 
 2. The micro drop drone will be able to carry a payload > 250 g.
-3. The micro drop drone will have a payload volume > 1000 cm<sup>3<sup>.
+3. The micro drop drone will have a payload volume > 1000 cm<sup>3</sup>.
 4. The micro drop drone will weigh < 2500 g.
 5. The micro drop drone will fly below 120 m.
 
