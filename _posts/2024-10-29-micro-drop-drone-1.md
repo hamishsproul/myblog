@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "Micro Drop Drone 1 - Introduction"
+title: Micro Drop Drone 1 - Introduction
 date: 2024-10-29 10:00:00 +0530
-categories: [drones, project]
-tags: [micro drop drone, first post]
+categories:
+  - micro drop drone
+  - projects
+tags:
+  - drones
+  - low-gravity
 ---
 
 # Backstory
